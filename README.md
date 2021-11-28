@@ -2,3 +2,4 @@
 The project is provided by SQL 
 
 1. Online Shopping
+2. College Major 
